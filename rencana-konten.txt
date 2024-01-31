@@ -4,6 +4,7 @@ Rencana Konten
 - Konten javascript di instagram
   - Materi javascript dasar
   - Node.Js
+  - Git
 - Tutorial javascript lainnya di youtube
 - Konten frontend framework
   - react.js
