@@ -2,3 +2,4 @@ Rencana Konten
 
 - Todolist javascript tutorial di youtube
 - Konten javascript di instagram
+- Tutorial javascript lainnya di youtube
