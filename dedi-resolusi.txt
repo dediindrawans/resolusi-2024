@@ -1,0 +1,7 @@
+Hallo, Dedi.. apa kabar?
+
+Perkenalkan nama saya Dedi Indrawan dari Bogor.
+
+Resolusi saya:
+- Segera bekerja sebagai Frontend Developer
+- Membuat website menggunakan React.JS
